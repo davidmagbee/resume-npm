@@ -1,0 +1,25 @@
+{
+    "name": "David Magbee",
+    "website": "https://macuser413.github.io/",
+    "linkedin": "https://www.linkedin.com/in/davidmagbee/",
+    "github": "macuser413",
+    "email": "david.magbee@gmail.com",
+    "resume": "https://macuser413.github.io/assets/DAVID-MAGBEE-resume-v1.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Gatsby",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress"
+    ],
+    "otherSkills": [
+        "Business Development",
+        "Strategic Planning",
+        "Client Relations"
+    ]
+}

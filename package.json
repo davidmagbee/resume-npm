@@ -1,0 +1,14 @@
+{
+  "name": "magbee-resume",
+  "version": "1.0.0",
+  "description": "resume printing via npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "magbee",
+  "license": "ISC",
+  "bin": {
+    "stanley": "./index.js"
+  }
+}
